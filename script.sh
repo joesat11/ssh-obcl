@@ -22,10 +22,7 @@ echo "
     („• ֊ •„)  ♡
 ━━∪∪━━━━━━━━━━GCP SERVER
 </font></h3>
-<h3><font color='#4FC3F7'>
-♡   (\(\  
-    („• ֊ •„)  ♡
-━━∪∪━━━━━━━━━━Gcp
+<h3><font color='#4FC3F7'>Gcp
 </font></h3>
 
 <h3><font color='#FFA726'> အဆင်ပြေကြပါစေ။
@@ -35,7 +32,7 @@ echo "
 ━━∪∪━━━━━━━━━━
 </font></h3>" | tee /etc/ssh/gcp_404 >/dev/null
 useradd "obcl" --shell=/bin/false -M
-echo "obcl" | chpasswd
+echo "obcl:obcl" | chpasswd
 
 echo ""
 
