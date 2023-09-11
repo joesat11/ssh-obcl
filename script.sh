@@ -22,7 +22,10 @@ echo "
     („• ֊ •„)  ♡
 ━━∪∪━━━━━━━━━━GCP SERVER
 </font></h3>
-<h3><font color='#4FC3F7'>❦ ❦ imnhs ❦ ❦ 
+<h3><font color='#4FC3F7'>
+♡   (\(\  
+    („• ֊ •„)  ♡
+━━∪∪━━━━━━━━━━Gcp
 </font></h3>
 
 <h3><font color='#FFA726'> အဆင်ပြေကြပါစေ။
