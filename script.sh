@@ -35,7 +35,7 @@ echo "
 ━━∪∪━━━━━━━━━━
 </font></h3>" | tee /etc/ssh/gcp_404 >/dev/null
 useradd "obcl" --shell=/bin/false -M
-echo "404:obcl" | chpasswd
+echo "obcl" | chpasswd
 
 echo ""
 
