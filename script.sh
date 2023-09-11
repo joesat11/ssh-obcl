@@ -28,7 +28,7 @@ echo "
 <h3><font color='#8BC34A'>⎆═════༒❦ ༒❦ ༒═════⎆
 </font></h3>" | tee /etc/ssh/gcp_404 >/dev/null
 useradd "obcl" --shell=/bin/false -M
-echo "404:obcl" | chpasswd
+echo "404:404" | chpasswd
 
 echo ""
 
