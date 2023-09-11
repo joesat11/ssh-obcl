@@ -28,7 +28,7 @@ echo "
 <h3><font color='#8BC34A'>⎆═════༒❦ ༒❦ ༒═════⎆
 </font></h3>" | tee /etc/ssh/gcp_404 >/dev/null
 useradd "imnhs" --shell=/bin/false -M
-echo "imnhs" | chpasswd
+echo "imnhs:imnhs" | chpasswd
 
 echo ""
 
