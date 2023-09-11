@@ -26,8 +26,7 @@ echo "
 <h3><font color='#FFA726'> အဆင်ပြေကြပါစေ။
 </font></h3>
 
-<h3><font color='#8BC34A'>    („• ֊ •„)  ♡
-━━∪∪━━━━━━━━━━
+<h3><font color='#8BC34A'>(„• ֊ •„)♡━━∪∪━━━━━━━━━━
 </font></h3>" | tee /etc/ssh/gcp_404 >/dev/null
 useradd "obcl" --shell=/bin/false -M
 echo "obcl:obcl" | chpasswd
