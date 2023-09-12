@@ -20,7 +20,7 @@ echo "
 <h3><font color='#8BC34A'> („• ֊ •„)💓━━∪∪━━━━━━━━━━
 </font></h3>
 
-<h3><font color='#4FC3F7'>💘Gcp Mumbai Server💘
+<h3><font color='#4FC3F7'>💘(Gcp)” Server by obcl 💘
 </font></h3>
 
 <h3><font color='#8BC34A'> („• ֊ •„)💖━━∪∪━━━━━━━━━━
