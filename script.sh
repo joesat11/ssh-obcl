@@ -20,13 +20,7 @@ echo "
 <h3><font color='#8BC34A'> („• ֊ •„)💓━━∪∪━━━━━━━━━━
 </font></h3>
 
-<h3><font color='#4FC3F7'>💘Gcp Taiwan Server💘
-</font></h3>
-
-<h3><font color='#4FC3F7'> 4:30Pm Exp
-</font></h3>
-
-<h3><font color='#FFA726'> အဆင်ပြေကြပါစေ။
+<h3><font color='#4FC3F7'>💘Gcp Mumbai Server💘
 </font></h3>
 
 <h3><font color='#8BC34A'> („• ֊ •„)💖━━∪∪━━━━━━━━━━
